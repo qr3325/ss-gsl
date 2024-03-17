@@ -1,0 +1,11 @@
+{
+  displayName: "STANDARD VARIANT",
+  fluxCapacitors: 0,
+  goalVariant: true,
+  fluxVents: 0,
+  hullId: "haxmech_g1_legs",
+  hullMods: [],
+  variantId: "haxmech_g1_legs_standard",
+  weaponGroups: [],
+  modules: [],
+}

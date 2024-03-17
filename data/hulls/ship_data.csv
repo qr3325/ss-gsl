@@ -1,0 +1,7 @@
+name,id,designation,tech/manufacturer,system id,travel drive,fleet pts,hitpoints,armor rating,max flux,8/6/5/4%,flux dissipation,ordnance points,fighter bays,max speed,acceleration,deceleration,max turn rate,turn acceleration,mass,shield type,defense id,shield arc,shield upkeep,shield efficiency,phase cost,phase upkeep,min crew,max crew,cargo,fuel,fuel/ly,range,max burn,base value,cr %/day,CR to deploy,peak CR sec,CR loss/sec,supplies/rec,supplies/mo,hints,tags,rarity,breakProb,minPieces,maxPieces,number
+Giant Space Lady,haxmech_g1,G,,burndrive,,9,1500000,1000000,300000,,20000,3000,0,120,40,40,40,180,12000,NONE,,,,,,,1,0,0,0,0,,11,10000000,10,0,,0,0,300,"SHIP_WITH_MODULES, HIDE_IN_CODEX, UNBOARDABLE","rare_bp,hist1t",0.6,0,1,1,2
+G Shoulders,haxmech_g1_shoulders,G,,,,9,1500000,1000000,300000,,20000,3000,0,120,40,40,40,180,12000,NONE,,,,,,,0,0,0,0,0,,11,10000000,10,0,,0,0,300,,"rare_bp,hist1t",0.6,0,1,1,2
+G Legs,haxmech_g1_legs,G,,,,9,1500000,1000000,300000,,20000,3000,0,120,40,40,40,180,12000,NONE,,,,,,,0,0,0,0,0,,11,10000000,10,0,,0,0,300,,"rare_bp,hist1t",0.6,0,1,1,2
+Hax G Spin,haxmech_g1_waist,G,,,,9,1500000,1000000,300000,,20000,3000,0,120,40,40,40,180,12000,NONE,,360,0.1,0.3,,,0,0,0,0,0,,11,10000000,10,0,,0,0,300,,"rare_bp,hist1t",0.6,0,1,1,2
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Command Center,g_backpack,G,,,,9,7000,3000,14000,,400,300,2,120,40,40,40,180,1200,FRONT,,180,0.1,0.3,,,0,0,0,0,0,,11,500000,10,0,,0,0,300,,"rare_bp,hist1t",0.6,0,1,1,2

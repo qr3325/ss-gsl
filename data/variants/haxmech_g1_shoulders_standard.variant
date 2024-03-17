@@ -1,0 +1,26 @@
+{
+  displayName: "STANDARD VARIANT",
+  fluxCapacitors: 0,
+  goalVariant: true,
+  fluxVents: 0,
+  hullId: "haxmech_g1_shoulders",
+  hullMods: [],
+  variantId: "haxmech_g1_shoulders_standard",
+  weaponGroups: [
+    {
+      autofire: false,
+      mode: "LINKED",
+      weapons: {
+        ARM_R: "haxmech_g1_armr",
+      },
+    },
+    {
+      autofire: false,
+      mode: "LINKED",
+      weapons: {
+        ARM_L: "haxmech_g1_arml",
+      },
+    },
+  ],
+  modules: [],
+}

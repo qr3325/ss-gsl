@@ -1,0 +1,15 @@
+out
+.idea
+
+**/__pycache__
+sprite_process/.mypy_cache
+sprite_process/img_in
+sprite_process/Include
+sprite_process/Lib
+sprite_process/Scripts
+sprite_process/cached_trackers.pickle
+sprite_process/pyvenv.cfg
+
+graphics/haxmech/ships/g1
+
+**/.~*#

@@ -1,0 +1,118 @@
+{
+    "hullName": "Command Center",
+    "hullId": "g_backpack",
+    "hullSize": "CAPITAL_SHIP",
+    "style": "HIGH_TECH",
+    "spriteName": "graphics/haxmech/ships/g1_backpack/plus_pestilence.png",
+    "height": 140,
+    "width": 114,
+    "center": [
+        57, 64
+    ],
+    "moduleAnchor": [
+        0, 0
+    ],
+    "collisionRadius": 80,
+    "coversColor": "",
+    "shieldCenter": [
+        0, 0
+    ],
+    "shieldRadius": 100,
+    "viewOffset": 0,
+    "builtInMods": [
+        "never_detaches",
+        "autorepair",
+        "armoredweapons",
+        "supercomputer"
+    ],
+    "builtInWings": [],
+    "builtInModules": null,
+    "weaponSlots": [
+        {
+            "id": "WS 000",
+            "size": "LARGE",
+            "type": "UNIVERSAL",
+            "mount": "TURRET",
+            "arc": 187,
+            "angle": 0,
+            "locations": [
+                   -27.5,        0
+            ]
+        },
+        {
+            "id": "WS 001",
+            "size": "MEDIUM",
+            "type": "UNIVERSAL",
+            "mount": "TURRET",
+            "arc": 148,
+            "angle": 323.5,
+            "locations": [
+                     5.5,      -31
+            ]
+        },
+        {
+            "id": "WS 002",
+            "size": "MEDIUM",
+            "type": "UNIVERSAL",
+            "mount": "TURRET",
+            "arc": 148,
+            "angle": 36.5,
+            "locations": [
+                     5.5,       31
+            ]
+        },
+        {
+            "id": "WS 003",
+            "size": "SMALL",
+            "type": "UNIVERSAL",
+            "mount": "TURRET",
+            "arc": 147,
+            "angle": 321,
+            "locations": [
+                   -10.5,      -17
+            ]
+        },
+        {
+            "id": "WS 004",
+            "size": "SMALL",
+            "type": "UNIVERSAL",
+            "mount": "TURRET",
+            "arc": 147,
+            "angle": 39,
+            "locations": [
+                   -10.5,       17
+            ]
+        },
+        {
+            "id": "LB 000",
+            "size": "SMALL",
+            "type": "LAUNCH_BAY",
+            "mount": "HIDDEN",
+            "arc": 0,
+            "angle": 0,
+            "locations": [
+                    19.5,        0,
+                    19.5,      -12,
+                    19.5,       12
+            ]
+        }
+    ],
+    "engineSlots": [],
+    "bounds": [
+            20.5,      -31,
+            -2.5,      -49,
+            -9.5,    -52.5,
+           -34.5,      -56,
+           -63.5,      -40,
+        
+             -59,      -17,
+             -59,       17,
+           -63.5,       40,
+           -34.5,       56,
+            -9.5,     52.5,
+        
+            -2.5,       49,
+            20.5,       31
+    # 12 points total.
+    ]
+}

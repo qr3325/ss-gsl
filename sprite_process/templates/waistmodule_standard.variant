@@ -1,0 +1,13 @@
+{
+  "displayName": "STANDARD VARIANT",
+  "fluxCapacitors": 0,
+  "goalVariant": true,
+  "fluxVents": 0,
+  "hullId": "haxmech_g1_waist",
+  "hullMods": [],
+  "variantId": "haxmech_g1_waist_standard",
+  "weaponGroups": [
+  ],
+  "modules": [
+  ]
+}

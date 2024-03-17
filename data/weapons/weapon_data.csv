@@ -1,0 +1,7 @@
+name,id,tier,rarity,base value,range,damage/second,damage/shot,emp,impact,turn rate,OPs,ammo,ammo/sec,reload size,type,energy/shot,energy/second,chargeup,chargedown,burst size,burst delay,min spread,max spread,spread/shot,spread decay/sec,beam speed,proj speed,launch speed,flight time,proj hitpoints,hints,tags,groupTag,tech/manufacturer,for weapon tooltip>>,primaryRoleStr,speedStr,trackingStr,turnRateStr,accuracyStr,customPrimary,customPrimaryHL,customAncillary,customAncillaryHL,noDPSInTooltip,number
+Head,haxmech_g1_head,3,0.3,800,1100,1100,,50,10,120,90,,,,ENERGY,,5,0.1,1,3,,,,,,5000,,,,,"SYSTEM,STRIKE,USE_VS_FRIGATES,PD_ALSO","no_drop, no_sell, no_drop_salvage",,,,Strike/Pressure,,,,,,,,,,
+,haxmech_g1_torso,,,,1,1,,,,,,,,,,,,,10,,,,,,,,,,,,SYSTEM,"no_drop, no_sell, no_drop_salvage",,,,,,,,,,,,,,999
+,haxmech_g1_waist,,,,1,1,,,,,,,,,,,,,10,,,,,,,,,,,,SYSTEM,"no_drop, no_sell, no_drop_salvage",,,,,,,,,,,,,,999
+,haxmech_g1_legs,,,,1,1,,,,,,,,,,,,,10,,,,,,,,,,,,SYSTEM,"no_drop, no_sell, no_drop_salvage",,,,,,,,,,,,,,999
+Laser Pointer Left,haxmech_g1_arml,3,0.3,800,1100,6000,,100,30,180,120,,,,ENERGY,,5,5,3,,,,,,,5000,,,,,"SYSTEM,STRIKE,USE_VS_FRIGATES,PD_ALSO","no_drop, no_sell, no_drop_salvage",,,,Strike/Pressure,,,,,,,,,,
+Laser Pointer Right,haxmech_g1_armr,3,0.3,800,1100,6000,,100,30,180,120,,,,ENERGY,,5,5,3,,,,,,,5000,,,,,"SYSTEM,STRIKE,USE_VS_FRIGATES,PD_ALSO","no_drop, no_sell, no_drop_salvage",,,,Strike/Pressure,,,,,,,,,,

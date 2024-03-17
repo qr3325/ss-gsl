@@ -1,0 +1,2 @@
+name,id,tier,rarity,tech/manufacturer,tags,uiTags,base value,unlocked,hidden,hiddenEverywhere,cost_frigate,cost_dest,cost_cruiser,cost_capital,script,desc,short,sModDesc,sprite
+Hax G1 Hullmod,haxmech_g1_hullmod,,,,,,,,TRUE,TRUE,0,0,0,0,haxmech.data.hullmods.HaxGModule,"The main body of this structure is vast and is, for practical purposes, capable of absorbing any amount of damage from conventional weapons without being destroyed.",,,graphics/hullmods/vast_bulk.png
